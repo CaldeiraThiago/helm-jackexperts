@@ -1,0 +1,14 @@
+# Parametros da minha aplicação
+
+namespace:
+  name: thiago-caldeira-namespace
+
+deployment:
+  name: thiago-caldeira-deploy
+  app: appThiago
+
+service:
+  name: thiago-caldeira-service
+
+ingress:
+  name: thiago-caldeira-ingress
